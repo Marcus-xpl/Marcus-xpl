@@ -31,7 +31,7 @@
   <img align="center" alt="Marcus-Js" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcus-Python" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcus-C" height="39" width="40" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/7947a8c0-e4e2-46c6-8cbb-38b9f489a5cb">
-  <img align="center" alt="Marcus-Sql" height="37" width="38" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/9ffcbc0f-d3e8-49b3-9f23-d5aa48ed7ca5">
+  <img align="center" alt="Marcus-Sql" height="39" width="40" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/0b2c28f3-790c-4b18-acfc-f5da95d9d615">
   </div>
   
 <h1>Contatos</h1>
