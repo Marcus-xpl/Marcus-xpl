@@ -41,4 +41,4 @@
 </div>
 <img align="center" alt="barra de separação de luz" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="center" alt="gif anime" width="100%" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/9bb80501-2a3c-4cc3-9fe1-90e55aa67847" target="_blank">
+<img align="center" alt="gif anime" width="100%" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/5997fad5-7ebc-4406-8370-5f6b13654a1d" target="_blank">
