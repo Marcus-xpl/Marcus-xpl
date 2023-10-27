@@ -30,7 +30,7 @@
   <img align="center" alt="Marcus-CSS" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcus-Js" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcus-Python" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcus-C" height="39" width="40" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/7947a8c0-e4e2-46c6-8cbb-38b9f489a5cb">
+  <img align="center" alt="Marcus-C" height="39" width="40" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/9ca427fc-d7c6-4301-8ef5-8efc4d515552">
   <img align="center" alt="Marcus-Sql" height="39" width="40" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/0b2c28f3-790c-4b18-acfc-f5da95d9d615">
   </div>
   
