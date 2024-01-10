@@ -1,4 +1,4 @@
-<h1 align="center">Olá sou o Marcus, seja bem vindo(a). 🤝</h1>
+<h1 align="center">Olá sou o Marcus, seja bem vindo(a) 🤝</h1>
 <img alt="Pixel Art" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/36364026-9800-41d1-8e3f-cd47637bb7f2" target="_blank">
 
 <h1 align="left">Informações 👀</h1>
