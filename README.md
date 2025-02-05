@@ -8,7 +8,7 @@
 - Estou dedicado a aprender e crescer na área de **Desenvolvimento Web** e estou sempre buscando novas maneiras de aprimorar minhas habilidades.
 
 **Tempo livre:**
-- Estou estudando **Banco de Dados com NoSQL**,**Ferramentas Web - XML, Ajax e Json **e** Framework Angular.**
+- Estou estudando **Game Making Software**,**AjaxExtensão Game Making Software, Linguagem C# **e** Game Engine 2D.**
 - Eu adoro desenhar, e é uma atividade que me ajuda a equilibrar a vida agitada do universo da tecnologia.
 - Gosto de assistir filmes, animes e faço esporte.
 
