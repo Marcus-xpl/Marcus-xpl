@@ -9,11 +9,11 @@
 
 **Tempo livre:**
 - Estou estudando **Game Making Software**,**Extensão Game Making Software, Linguagem C# **e** Game Engine 2D.**
+
 - Eu adoro desenhar, e é uma atividade que me ajuda a equilibrar a vida agitada do universo da tecnologia.
-- Gosto de assistir filmes, animes e faço esporte.
 
 **Objetivo:**
-- Estou em constante busca por desafios emocionantes e oportunidades para aprender e crescer. Acredito que a tecnologia é a chave para moldar o futuro, e estou determinado a desempenhar um papel ativo nessa evolução.
+- Estou em constante busca por desafios emocionantes e oportunidades para aprender e crescer.
 
 <details>
 <summary>Github Stats</summary>
