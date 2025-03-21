@@ -36,5 +36,4 @@
 <a href="https://www.linkedin.com/in/marcus-vinicius-780342199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <img align="center" alt="barra de separação de luz" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <img align="center" alt="gif anime" width="100%" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/5997fad5-7ebc-4406-8370-5f6b13654a1d" target="_blank">
