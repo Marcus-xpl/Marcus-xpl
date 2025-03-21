@@ -13,7 +13,7 @@
 - Estou em constante busca por desafios emocionantes e oportunidades para aprender e crescer.
 
 <details>
-<summary>Github Stats</summary>
+<summary>Github Stats</summary></br>
 <div>
   <a align="center" href="https://github.com/Marcus-xpl">
   <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcus-xpl&show_icons=true&count_private=true&line_height=30&theme=dark"/>
