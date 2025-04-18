@@ -1,7 +1,7 @@
 <h1 align="left">Informações 👀</h1>
 
 **Sobre mim:**
-- Atualmente estou cursando **Sistemas de Informação na Eniac**. me permitindo explorar o vasto mundo da tecnologia, desde o **desenvolvimento de software até a análise de dados**.
+- Atualmente estou cursando **Sistemas de Informação na Eniac.** me permitindo explorar o vasto mundo da tecnologia, desde o **desenvolvimento de software até a análise de dados.**
 - Estou dedicado a aprender e crescer na área de **Desenvolvimento Web** e estou sempre buscando novas maneiras de aprimorar minhas habilidades.
 
 **Tempo livre:**
