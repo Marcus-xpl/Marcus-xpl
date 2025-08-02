@@ -5,7 +5,8 @@
 - Estou dedicado a aprender e crescer na área de **Desenvolvimento Web** e estou sempre buscando novas maneiras de aprimorar minhas habilidades.
 
 **Tempo livre:**
-- Estou estudando **Game Making Software**,**Extensão Game Making Software, Linguagem C# **e** Game Engine 2D.**
+- Estou estudando **Conexões de Dispositivos em Nuvem**,**Machine Learning, 
+Projeto Integrador: Cloud Computing **e** IA com Python.**
 
 - Eu adoro desenhar, e é uma atividade que me ajuda a equilibrar a vida agitada do universo da tecnologia.
 
