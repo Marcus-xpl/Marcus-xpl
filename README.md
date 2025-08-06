@@ -11,7 +11,7 @@ Projeto Integrador: Cloud Computing **e** IA com Python.**
 - Eu adoro desenhar, e é uma atividade que me ajuda a equilibrar a vida agitada do universo da tecnologia.
 
 **Objetivo:**
-- Construir projetos full-stack, combinando front-end interativo, responsivo e intuitivo, desenvolvido com as melhores práticas de HTML, CSS e JavaScript, com back-end robusto e eficiente. Meu foco é criar soluções web escaláveis e seguras que proporcionem uma excelente experiência ao usuário, integrando bancos de dados e APIs de forma eficaz, e sempre buscando aprimorar minhas habilidades para acompanhar as tendências e demandas do mercado..
+- Construir projetos full-stack, combinando front-end interativo, responsivo e intuitivo, desenvolvido com as melhores práticas de HTML, CSS e JavaScript, com back-end robusto e eficiente. Meu foco é criar soluções web escaláveis e seguras que proporcionem uma excelente experiência ao usuário, integrando bancos de dados e APIs de forma eficaz, e sempre buscando aprimorar minhas habilidades para acompanhar as tendências e demandas do mercado.
 
 <details>
 <summary>Github Stats</summary></br>
