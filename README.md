@@ -14,16 +14,14 @@ Projeto Integrador: Cloud Computing **e** IA com Python.**
 **Objetivo:**
 - Construir projetos full-stack, combinando front-end interativo, responsivo e intuitivo, desenvolvido com as melhores práticas de HTML, CSS e JavaScript, com back-end robusto e eficiente. Meu foco é criar soluções web escaláveis e seguras que proporcionem uma excelente experiência ao usuário, integrando bancos de dados e APIs de forma eficaz, e sempre buscando aprimorar minhas habilidades para acompanhar as tendências e demandas do mercado.
 
-
 <details>
 <summary>Github Stats</summary></br>
 <div>
   <a align="center" href="https://github.com/Marcus-xpl">
   <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcus-xpl&show_icons=true&count_private=true&line_height=30&theme=dark"/>
-  <img align="center"  height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcus-xpl&layout=compact&theme=dark"/>
+  <img align="center"  height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcus-xpl&layout=compact&theme=dark"/>
 </div>
 </details>
-
  <img align="center" alt="barra de separação de luz" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Skills:</h3>
 <div align="center" style="display: inline-block; margin-bottom: 40px;">
@@ -34,15 +32,12 @@ Projeto Integrador: Cloud Computing **e** IA com Python.**
   <img align="center" alt="Marcus-C" height="39" width="40" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/9ca427fc-d7c6-4301-8ef5-8efc4d515552">
   <img align="center" alt="Marcus-Sql" height="39" width="40" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/0b2c28f3-790c-4b18-acfc-f5da95d9d615">
 </div>
-
 <br>
 <img align="center" alt="barra de separação de luz" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
  <a href="https://instagram.com/marcus.xpl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/ffvtEJyj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/marcus-vinicius-780342199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <img align="center" alt="barra de separação de luz" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+<img align="center" alt="barra de separação de luz" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/esythir/esythir/master/5RTG.gif">
