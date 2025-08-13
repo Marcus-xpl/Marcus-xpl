@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a34a1&height=120&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F7F1&width=435&lines=Informações+👀" alt="Typing SVG"/> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3a34a1&width=435&lines=Informações+👀" alt="Typing SVG"/> 
 
 <img align="center" alt="barra de separação de luz" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -34,7 +34,6 @@ Projeto Integrador: Cloud Computing **e** IA com Python.**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,py,vscode)](https://skillicons.dev)<br>
 
 </div>
-
 
 <img align="center" alt="barra de separação de luz" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
