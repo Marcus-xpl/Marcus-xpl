@@ -26,14 +26,11 @@ Projeto Integrador: Cloud Computing **e** IA com Python.**
  <img align="center" alt="barra de separação de luz" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Skills:</h3>
 <div align="center" style="display: inline-block; margin-bottom: 40px;">
-  <img align="center" alt="Marcus-HTML" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcus-CSS" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcus-Js" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcus-Python" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcus-C" height="39" width="40" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/9ca427fc-d7c6-4301-8ef5-8efc4d515552">
-  <img align="center" alt="Marcus-Sql" height="39" width="40" src="https://github.com/Marcus-xpl/Marcus-xpl/assets/121315130/0b2c28f3-790c-4b18-acfc-f5da95d9d615">
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+  
 </div>
-<br>
+
 <img align="center" alt="barra de separação de luz" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
  <a href="https://instagram.com/marcus.xpl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
