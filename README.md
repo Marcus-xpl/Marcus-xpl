@@ -20,10 +20,11 @@ Projeto Integrador: Cloud Computing **e** IA com Python.**
 
 <details>
 <summary>Github Stats</summary></br>
-<div>
-  <a align="center" href="https://github.com/Marcus-xpl">
-  <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcus-xpl&show_icons=true&count_private=true&line_height=30&theme=midnight-purple"/>
-  <img align="center"  height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcus-xpl&layout=compact&theme=midnight-purple"/>
+<div align="center">
+  <a href="https://github.com/Marcus-xpl">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcus-xpl&show_icons=true&count_private=true&line_height=30&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcus-xpl&layout=compact&theme=midnight-purple"/>
+  </a>
 </div>
 </details>
     
