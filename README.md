@@ -42,4 +42,17 @@ Projeto Integrador: Cloud Computing **e** IA com Python.**
  <a href="https://www.linkedin.com/in/marcus-vinicius-780342199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <img align="center" alt="barra de separação de luz" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-   <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/esythir/esythir/master/5RTG.gif">
+
+<p  class="Profile Views Badge"  align="left">
+<img  src="https://komarev.com/ghpvc/?username=Marcus-xpl&label=Profile%20views&color=blueviolet&style=for-the-badge"  alt="Marcus-xpl" />
+</p>
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/esythir/esythir/master/5RTG.gif">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a34a1&height=120&section=footer"/>
+
+
+
+
+
+
