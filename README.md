@@ -32,7 +32,7 @@ Projeto Integrador: Cloud Computing **e** IA com Python.**
 <h3 align="center">Skills:</h3>
 <div align="center" style="display: inline-block; margin-bottom: 40px;">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,py,vscode)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,py,figma,vscode)](https://skillicons.dev)<br>
 
 </div>
 
