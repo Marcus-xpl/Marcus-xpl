@@ -4,18 +4,10 @@
 
 <img align="center" alt="barra de separação de luz" width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Sobre mim:**
-- Atualmente estou cursando **Sistemas de Informação na Eniac.** me permitindo explorar o vasto mundo da tecnologia, desde o **desenvolvimento de software até a análise de dados.**
-- Estou dedicado a aprender e crescer na área de **Desenvolvimento Web** e estou sempre buscando novas maneiras de aprimorar minhas habilidades.
+Sou um desenvolvedor Full-Stack atuando na criação de aplicações web usando HTML, CSS e JavaScript, com back-end integrado a bancos de dados SQL/NoSQL. Gosto de criar experiências digitais limpas, escaláveis e funcionais, desde a estrutura da interface até decisões de arquitetura e integração com o back-end.
 
-**Tempo livre:**
-- Estou estudando **Conexões de Dispositivos em Nuvem**,**Machine Learning, 
-Projeto Integrador: Cloud Computing **e** IA com Python.**
+Trabalho no desenvolvimento de sistemas completos com autenticação e operações CRUD, combinando boas práticas de front-end com engenharia prática para entregar funcionalidades confiáveis, usando Git/GitHub como parte essencial do meu fluxo de trabalho.
 
-- Eu adoro desenhar, é uma atividade que me ajuda a equilibrar a vida agitada do universo da tecnologia.
-
-**Objetivo:**
-- Construir projetos full-stack, combinando front-end interativo, responsivo e intuitivo, desenvolvido com as melhores práticas de HTML, CSS e JavaScript, com back-end robusto e eficiente. Meu foco é criar soluções web escaláveis e seguras que proporcionem uma excelente experiência ao usuário, integrando bancos de dados e APIs de forma eficaz.
 
 
 <details>
